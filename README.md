@@ -79,7 +79,7 @@ Se incluye un análisis exploratorio inicial en `01_exploracion_datos.ipynb` que
 1. Imputación de valores faltantes (media/mediana para numéricas, moda para categóricas).
 2. Detección y manejo de outliers mediante IQR y winsorización.
 3. Estandarización (z‑score) y/o normalización (Min‑Max) donde procede.
-4. Codificación One‑Hot para variables categóricas.
+4. Codificación Target para variables categóricas.
 
 ### Modelado
 
